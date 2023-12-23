@@ -13,7 +13,7 @@ function ProductDetails({ productsList }) {
     product => product.id !== parseInt(id) && singleProduct.category === product.category
   );
 
-  const { price, image, name, category, description } = singleProduct;
+  const { price, image, name, category, description } = singleProduct || {};
   return (
     <>
       <div className="container">
