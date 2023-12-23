@@ -1,0 +1,362 @@
+[
+    {
+        "id": 1,
+        "name": "Barstool Chair: BC01",
+        "category": "Barstool",
+        "price": 3300,
+        "discount": 10,
+        "isNew": true,        
+        "image": "Barstool-Chair-BC01.png",
+        "description": "Elevate your bar area with the Barstool-Chair: BC03. Featuring a sleek design and comfortable seating, it adds a touch of modern sophistication to your space."
+    },
+    {
+        "id": 2,
+        "name": "Barstool Chair: BC02",
+        "category": "Barstool",
+        "price": 3400,
+        "discount": 5,
+        "isNew": true,
+        "image": "Barstool-Chair-BC02.png",
+        "description": "Create a trendy and inviting atmosphere with the Barstool-Chair: BC02. Its contemporary style and ergonomic design make it a perfect addition to any bar or kitchen."
+    },
+    {
+        "id": 3,
+        "name": "Barstool Chair: BC03",
+        "category": "Barstool",
+        "price": 3700,
+        "discount": 0,
+        "isNew": false,
+        "image": "Barstool-Chair-BC03.png",
+        "description": "Upgrade your seating experience with the Barstool-Chair: BC03. With its adjustable height and modern aesthetics, it's a stylish choice for bars and counters."
+    },
+    {
+        "id": 4,
+        "name": "Chair Pillow: CP01",
+        "category": "Chair Pillow",
+        "price": 1150,
+        "discount": 0,
+        "isNew": false,        
+        "image": "Chair-Pillow-CP01.png",
+        "description": "Enhance your seating experience with the Chair-Pillow: CP01. The perfect combination of comfort and style, it adds a touch of luxury to any chair, making it an ideal accessory."
+    },
+    {
+        "id": 5,
+        "name": "Chair Pillow: CP02",
+        "category": "Chair Pillow",
+        "price": 1200,
+        "discount": 0,
+        "isNew": false,        
+        "image": "Chair-Pillow-CP02.png",
+        "description": "Indulge in relaxation with the Chair-Pillow: CP02. This plush pillow provides excellent lumbar support, making your sitting experience both comfortable and ergonomic."
+    },
+    {
+        "id": 6,
+        "name": "Chair Pillow: CP03",
+        "category": "Chair Pillow",
+        "price": 1100,
+        "discount": 35,
+        "isNew": false,        
+        "image": "Chair-Pillow-CP03.png",
+        "description": "Upgrade your chair's aesthetics with the Chair-Pillow: CP03. Its contemporary design and soft fabric bring a touch of elegance to any living space."
+    },
+    {
+        "id": 7,
+        "name": "Chair Pillow: CP04",
+        "category": "Chair Pillow",
+        "price": 3700,
+        "discount": 0,
+        "isNew": false,        
+        "image": "Chair-Pillow-CP04.png",
+        "description": "Add a pop of color to your chair with the Chair-Pillow: CP04. Its vibrant design and premium quality make it an excellent choice for both comfort and style."
+    },
+    {
+        "id": 8,
+        "name": "Chair Pillow: CP05",
+        "category": "Chair Pillow",
+        "price": 3250,
+        "discount": 10,
+        "isNew": true,
+        "image": "Chair-Pillow-CP05.png",
+        "description": "Experience the ultimate in comfort with the Chair-Pillow: CP05. Its ergonomic design and soft material provide excellent support, making it an essential addition to your seating."
+    },
+    {
+        "id": 9,
+        "name": "Chair Pillow: CP06",
+        "category": "Chair Pillow",
+        "price": 3150,
+        "discount": 5,
+        "isNew": true,        
+        "image": "Chair-Pillow-CP06.png",
+        "description": "Elevate your chair's comfort with the Chair-Pillow: CP06. Its plush padding and stylish design create a cozy and inviting atmosphere in any room."
+    },
+    {
+        "id": 10,
+        "name": "Chair Pillow: CP07",
+        "category": "Chair Pillow",
+        "price": 3950,
+        "discount": 0,
+        "isNew": false,
+        "image": "Chair-Pillow-CP07.png",
+        "description": "Transform your chair into a luxurious haven with the Chair-Pillow: CP07. The premium fabric and exquisite detailing add a touch of sophistication to your home."
+    },
+    {
+        "id": 11,
+        "name": "Chair Pillow: CP08",
+        "category": "Chair Pillow",
+        "price": 2900,
+        "discount": 15,
+        "isNew": false,
+        "image": "Chair-Pillow-CP08.png",
+        "description": "Add a touch of elegance to your chair with the Chair-Pillow: CP08. Its refined design and high-quality materials create a comfortable and stylish seating experience."
+    },
+    {
+        "id": 12,
+        "name": "Cushion Chair: CC01",
+        "category": "Cushion Chair",
+        "price": 2800,
+        "discount": 0,
+        "isNew": false,
+        "image": "Cushion-Chair-CC01.png",
+        "description": "Upgrade your chair with the Cushion-Chair: CC01. Its plush cushioning provides optimal comfort, while the stylish design adds a touch of sophistication to any room."
+    },
+    {
+        "id": 13,
+        "name": "Cushion Chair: CC02",
+        "category": "Cushion Chair",
+        "price": 3900,
+        "discount": 15,
+        "isNew": false,
+        "image": "Cushion-Chair-CC02.png",
+        "description": "Experience the perfect blend of comfort and style with the Cushion-Chair: CC02. Its premium cushioning and elegant design make it an excellent choice for any space."
+    },
+    {
+        "id": 14,
+        "name": "Cushion Chair: CC03",
+        "category": "Cushion Chair",
+        "price": 3600,
+        "discount": 10,
+        "isNew": false,
+        "image": "Cushion-Chair-CC03.png",
+        "description": "Elevate your seating with the Cushion-Chair: CC03. Its modern design and high-quality materials create a cozy and inviting atmosphere, perfect for relaxation."
+    },
+    {
+        "id": 15,
+        "name": "Cushion Chair: CC04",
+        "category": "Cushion Chair",
+        "price": 3200,
+        "discount": 0,
+        "isNew": true,
+        "image": "Cushion-Chair-CC04.png",
+        "description": "Add a touch of luxury to your chair with the Cushion-Chair: CC04. Its plush cushioning and stylish detailing create a comfortable and visually appealing seating experience."
+    },
+    {
+        "id": 16,
+        "name": "Cushion Chair: CC05",
+        "category": "Cushion Chair",
+        "price": 4100,
+        "discount": 0,
+        "isNew": false,
+        "image": "Cushion-Chair-CC05.png",
+        "description": "Indulge in relaxation with the Cushion-Chair: CC05. Its ergonomic design and premium materials make it a perfect choice for creating a comfortable and stylish seating area."
+    },
+    {
+        "id": 17,
+        "name": "Cushion Chair: CC06",
+        "category": "Cushion Chair",
+        "price": 4500,
+        "discount": 0,
+        "isNew": false,
+        "image": "Cushion-Chair-CC06.png",
+        "description": "Transform your chair into a haven of comfort with the Cushion-Chair: CC06. Its plush cushioning and contemporary design add a touch of luxury to any room."
+    },
+    {
+        "id": 18,
+        "name": "Folding Chair: FC01",
+        "category": "Folding Chair",
+        "price": 320,
+        "discount": 10,
+        "isNew": false,
+        "image": "Folding-Chair-FC01.png",
+        "description": "Optimize your space with the Folding-Chair: FC01. Its compact design and sturdy construction make it an ideal choice for additional seating, perfect for various occasions."
+    },
+    {
+        "id": 19,
+        "name": "Folding Chair: FC02",
+        "category": "Folding Chair",
+        "price": 350,
+        "discount": 0,
+        "isNew": false,
+        "image": "Folding-Chair-FC02.png",
+        "description": "Add convenience to your space with the Folding-Chair: FC02. Its foldable design and lightweight construction make it easy to store, providing flexibility for any event."
+    },
+    {
+        "id": 20,
+        "name": "Office Chair: OC01",
+        "category": "Office Chair",
+        "price": 3700,
+        "discount": 20,
+        "isNew": false,
+        "image": "Office-Chair-OC01.png",
+        "description": "Elevate your workspace with the Office-Chair: OC01. Its ergonomic design and adjustable features provide optimal comfort, making it a stylish and practical addition to your office."
+    },
+    {
+        "id": 21,
+        "name": "Office Chair: OC02",
+        "category": "Office Chair",
+        "price": 3100,
+        "discount": 20,
+        "isNew": true,
+        "image": "Office-Chair-OC02.png",
+        "description": "Create a productive and stylish office environment with the Office-Chair: OC02. Its contemporary design and ergonomic features enhance your comfort and work efficiency."
+    },
+    {
+        "id": 22,
+        "name": "Office Chair: OC03",
+        "category": "Office Chair",
+        "price": 3500,
+        "discount": 10,
+        "isNew": true,
+        "image": "Office-Chair-OC03.png",
+        "description": "Upgrade your office space with the Office-Chair: OC03. Its sleek design and advanced features, such as lumbar support, provide a comfortable and professional work experience."
+    },
+    {
+        "id": 23,
+        "name": "Parsons Chair: PC01",
+        "category": "Parsons Chair",
+        "price": 450,
+        "discount": 5,
+        "isNew": false,
+        "image": "Parsons-Chair-PC01.png",
+        "description": "Enhance your dining experience with the Parsons-Chair: PC01. Its elegant design and comfortable seating make it a perfect addition to any dining room, adding a touch of sophistication."
+    },
+    {
+        "id": 24,
+        "name": "Parsons Chair: PC02",
+        "category": "Parsons Chair",
+        "price": 550,
+        "discount": 0,
+        "isNew": false,
+        "image": "Parsons-Chair-PC02.png",
+        "description": "Upgrade your dining area with the Parsons-Chair: PC02. Its modern design and premium materials create a sophisticated and inviting atmosphere for enjoyable meals."
+    },
+    {
+        "id": 25,
+        "name": "Parsons Chair: PC03",
+        "category": "Parsons Chair",
+        "price": 600,
+        "discount": 5,
+        "isNew": true,
+        "image": "Parsons-Chair-PC03.png",
+        "description": "Add elegance to your dining space with the Parsons-Chair: PC03. Its refined design and high-quality construction make it a stylish and comfortable choice for any dining setting."
+    },
+    {
+        "id": 26,
+        "name": "Parsons Chair: PC04",
+        "category": "Parsons Chair",
+        "price": 900,
+        "discount": 15,
+        "isNew": false,
+        "image": "Parsons-Chair-PC04.png",
+        "description": "Transform your dining area with the Parsons-Chair: PC04. Its classic design and sturdy build provide a comfortable and visually appealing seating solution for family and guests."
+    },
+    {
+        "id": 27,
+        "name": "Parsons Chair: PC05",
+        "category": "Parsons Chair",
+        "price": 760,
+        "discount": 5,
+        "isNew": false,
+        "image": "Parsons-Chair-PC05.png",
+        "description": "Upgrade your dining experience with the Parsons-Chair: PC05. Its sleek design and comfortable seating make it a perfect addition to any dining room, adding a touch of modern elegance."
+    },
+    {
+        "id": 28,
+        "name": "Parsons Chair: PC06",
+        "category": "Parsons Chair",
+        "price": 800,
+        "discount": 0,
+        "isNew": true,
+        "image": "Parsons-Chair-PC06.png",
+        "description": "Add a touch of sophistication to your dining space with the Parsons-Chair: PC06. Its contemporary design and premium materials create a comfortable and stylish atmosphere for memorable meals."
+    },
+    {
+        "id": 29,
+        "name": "Task Chair: TC01",
+        "category": "Task Chair",
+        "price": 1500,
+        "discount": 15,
+        "isNew": false,
+        "image": "Task-Chair-TC01.png",
+        "description": "Optimize your work environment with the Task Chair: TC01. Its ergonomic design and adjustable features provide optimal comfort, making it an essential addition to your workspace."
+    },
+    {
+        "id": 30,
+        "name": "Task Chair: TC02",
+        "category": "Task Chair",
+        "price": 1650,
+        "discount": 5,
+        "isNew": false,
+        "image": "Task-Chair-TC02.png",
+        "description": "Create a productive workspace with the Task Chair: TC02. Its modern design and ergonomic features enhance your comfort and focus, making it an ideal choice for long working hours."
+    },
+    {
+        "id": 31,
+        "name": "Task Chair: TC03",
+        "category": "Task Chair",
+        "price": 2100,
+        "discount": 15,
+        "isNew": false,
+        "image": "Task-Chair-TC03.png",
+        "description": "Enhance your workspace with the ergonomic Task Chair: TC03. Its adjustable features and modern design provide comfort and style for productive work sessions."
+    },
+    {
+        "id": 32,
+        "name": "Task Chair: TC04",
+        "category": "Task Chair",
+        "price": 1700,
+        "discount": 0,
+        "isNew": false,
+        "image": "Task-Chair-TC04.png",
+        "description": "Experience comfort during long work hours with the Task Chair: TC04. Its supportive design and quality materials make it a reliable choice for your office space."
+    },
+    {
+        "id": 33,
+        "name": "Wooden Chair: WC01",
+        "category": "Wooden Chair",
+        "price": 2050,
+        "discount": 5,
+        "isNew": true,
+        "image": "Wooden-Chair-WC01.png",
+        "description": "Add a touch of elegance with the Wooden Chair: WC01. Crafted with premium wood, this chair combines style and durability for a timeless addition to your home."
+    },
+    {
+        "id": 34,
+        "name": "Wooden Chair: WC02",
+        "category": "Wooden Chair",
+        "price": 2100,
+        "discount": 10,
+        "isNew": false,
+        "image": "Wooden-Chair-WC02.png",
+        "description": "Create a cozy corner with the Wooden Chair: WC02. Its charming design and comfortable seating make it a perfect choice for relaxation and casual gatherings."
+    },
+    {
+        "id": 35,
+        "name": "Wooden Chair: WC03",
+        "category": "Wooden Chair",
+        "price": 2200,
+        "discount": 0,
+        "isNew": true,
+        "image": "Wooden-Chair-WC03.png",
+        "description": "Introduce warmth to your space with the Wooden Chair: WC03. The combination of solid wood and thoughtful design adds a rustic charm to any room."
+    },
+    {
+        "id": 36,
+        "name": "Wooden Chair: WC04",
+        "category": "Wooden Chair",
+        "price": 2300,
+        "discount": 5,
+        "isNew": false,
+        "image": "Wooden-Chair-WC04.png",
+        "description": "Upgrade your dining area with the Wooden Chair: WC04. With its sturdy construction and timeless appeal, it's perfect for family dinners and gatherings."
+    }
+]
